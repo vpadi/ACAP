@@ -1,0 +1,5 @@
+Ordenadores       Tiempo      (Con intervalo de 10^10)
+   1           -  20.840002
+   2           -  10.473501
+   3           -  6.979088
+   4           -  5.306362
