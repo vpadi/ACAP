@@ -1,0 +1,22 @@
+Con 1 proceso:
+Problem size: 1504 x 768	Elapsed time: 0.180731
+Problem size: 3840 x 2160	Elapsed time: 1.355686
+Problem size: 5400 x 2700	Elapsed time: 2.172836
+
+
+Con 2 procesos:
+Problem size: 1504 x 768	Elapsed time: 0.092221
+Problem size: 3840 x 2160	Elapsed time: 0.682212
+Problem size: 5400 x 2700	Elapsed time: 1.170185
+
+
+Con 4 procesos:
+Problem size: 1504 x 768	Elapsed time: 0.045918
+Problem size: 3840 x 2160	Elapsed time: 0.339042
+Problem size: 5400 x 2700	Elapsed time: 0.576220
+
+
+Con 8 procesos:
+Problem size: 1504 x 768	Elapsed time: 0.022739
+Problem size: 3840 x 2160	Elapsed time: 0.321880
+Problem size: 5400 x 2700	Elapsed time: 0.540880
